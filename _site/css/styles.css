@@ -567,3 +567,12 @@ video {
   font-size: 3rem;
   line-height: 1;
 }
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-pink-400 {
+  --tw-text-opacity: 1;
+  color: rgb(244 114 182 / var(--tw-text-opacity));
+}
