@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "github:11ty/eleventy"
+  }
+}
